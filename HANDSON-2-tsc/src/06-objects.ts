@@ -2,7 +2,7 @@
 let user: { name: string; age: number; email: string } = {
     name: 'John Doe',
     age: 30,
-    email: "john.doe@example.com"
+    email: "djchen34@gmail.com"
     };
 
     //implementasi interface
