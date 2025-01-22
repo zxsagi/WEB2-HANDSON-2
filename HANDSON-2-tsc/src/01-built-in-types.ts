@@ -3,7 +3,7 @@ let name: string = "John Doe";
 let isActive: boolean = true;
 let notfound: null = null;
 let notDefined: undefined = undefined;
-let anything: any = "Bryan Sabathino Hursina";
+let anything: any = "Sagi Setiono";
 anything = 30;
 
 let salary = 5000; 
